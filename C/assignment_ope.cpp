@@ -1,5 +1,6 @@
 #include<stdio.h>
 main()
 {
-	printf("Hello Students!");
+	int x=23;
+	printf("X:%d",x);
 }
